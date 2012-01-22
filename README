@@ -1,4 +1,8 @@
-これはsuica/pasmoなどの非接触ICカードを利用したオートロックシステムなり。mbed/arduinoを使う。
+これはsuica/pasmoなどの非接触ICカードを利用したオートロックシステムです。ここではarduinoを使います。
+今は主にMBED向けの開発中心です：http://mbed.org/users/ryought/programs/RFID_doorlock/latest
+
 
 
 This is auto doorlock system controled by Arduino or Mbed. To open a door, you have to only touch Felica tag-card such as Suica/Pasmo/edy(in Japan).
+Its source for Mbed is in my mbed.org account : http://mbed.org/users/ryought/programs/RFID_doorlock/latest
+(now Im developing the system for MBED mainly. I'm sorry to stop the development of the system for Arduino.)
