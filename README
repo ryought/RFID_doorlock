@@ -1,1 +1,4 @@
 これはsuica/pasmoなどの非接触ICカードを利用したオートロックシステムなり。mbed/arduinoを使う。
+
+
+This is auto doorlock system controled by Arduino or Mbed. To open a door, you have to only touch Felica tag-card such as Suica/Pasmo/edy(in Japan).
